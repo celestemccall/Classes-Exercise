@@ -1,0 +1,15 @@
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/celestemccall/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
